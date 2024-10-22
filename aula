@@ -1,26 +1,5 @@
 Meu primeiro arquivo commitado no GIT.
 
-
-
-
-Outras infos.
-
-
-Agora mais.
-
-Isso
-
-
-
-
-Mais outras info
-Acrescentando informações ao texto
-
-
-
-
-
-
-
-
-
+Arquivo ajustado e editado pelo repositório remoto (github), 
+a fim de utilizar o comando # git pull, com o intuito de baixar e aplicar
+as mudanças realizadas no repositório remoto para o local.
