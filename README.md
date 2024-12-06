@@ -10,4 +10,4 @@ COMANDOS:
 * git diff origin/master: mostra as modificações realizadas no repositório.
 * git branch teste: cria uma branch com o nome teste.
 * git checkout teste: troca para a branch teste.
-* git merge teste: copia as modificações para a branch teste. 
+* git merge teste: copia as modificações da branch teste para a branch atual. 
