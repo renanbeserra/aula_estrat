@@ -11,3 +11,4 @@ COMANDOS:
 * git branch teste: cria uma branch com o nome teste.
 * git checkout teste: troca para a branch teste.
 * git merge teste: copia as modificações da branch teste para a branch atual (master). 
+* git blame README.md: indica o responsável pelas alterações relacionadas a um commit específico.
